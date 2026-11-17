@@ -23,7 +23,7 @@ repositories:
 
 website: "https://meshery.io"
 
-artwork: "https://landscape.cncf.io/logos/meshery.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/meshery"
 
 adopters:
   path: "https://github.com/meshery/meshery/blob/main/ADOPTERS.md"
